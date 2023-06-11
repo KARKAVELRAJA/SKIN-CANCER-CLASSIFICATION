@@ -28,5 +28,5 @@
 ### FILES
 
 - Dataset Link         - https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
-- category_samples.png - Sample Images of Skin Cancer
+- category_samples.png - Sample Image of Skin Cancer
 - skin_df.csv          - Preprocessed Dataset
